@@ -1,4 +1,8 @@
-[![Xdroid UI Fixer Start](https://img.shields.io/github/stars/KeishaXD/Xdroid-UI-Fixer?style=social)]([[https://github.com/KeishaXD/Xdroid-UI-Fixer])
+<p align="center">
+<img alt="Disable Phh Treble" src="git_assets/banner.jpg">
+</p>
+
+[![Disable Phh Treble](https://img.shields.io/github/stars/KeishaXD/Disable-Phh-Treble?style=social)]([[https://github.com/KeishaXD/Disable-Phh-Treble])
 
 <h2>Disable Phh Treble</h2>
 Remove the annoying Phh Treble setting to the aesthetics of your device settings.
