@@ -8,7 +8,8 @@
 Remove the annoying Phh Treble setting to the aesthetics of your device settings.
 
 ## Warning!!!
-This module is only tested on Magisk Kitsune version. It may cause bootloop in APatch / KernelSU
+- This module is only tested on Magisk Kitsune version. It may cause bootloop in APatch / KernelSU
+- This module conflict when combined with the Dual Status Bar module. So you have to choose one.
 
 ## Downloads
 To download this module, please go to the [Release](https://github.com/KeishaXD/Disable-Phh-Treble/releases/tag/V1.0.0) page
